@@ -59,9 +59,8 @@ const FunFact = () => {
               Trusted by Global Companies.
             </h2>
             <p className="mx-auto lg:w-11/12">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-              convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam
-              ante in maximus.
+            From boutique inns to luxury resorts, properties across the globe rely on FastRoomz to elevate their operations. Join the community of successful hoteliers who've transformed their business with our cutting-edge platform.
+
             </p>
           </motion.div>
 

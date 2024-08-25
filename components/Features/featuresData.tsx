@@ -4,44 +4,44 @@ const featuresData: Feature[] = [
   {
     id: 1,
     icon: "/images/icon/icon-01.svg",
-    title: "Crafted for SaaS",
+    title: "Smart Distribution",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Orchestrate your room inventory across all channels with precision. One update ripples through the digital hospitality landscape, ensuring perfect synchronization.",
   },
   {
     id: 2,
     icon: "/images/icon/icon-02.svg",
-    title: "High-quality Design",
+    title: "Dynamic Pricing",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      " Let your rates dance to the rhythm of demand and competition. Our AI-powered engine fine-tunes prices in real-time, maximizing your revenue potential.",
   },
   {
     id: 3,
     icon: "/images/icon/icon-03.svg",
-    title: "Next.js 13 + TypeScript",
+    title: "Sleek Booking",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Transform lookers into bookers with our sleek, user-friendly interface.Showcase your property's unique charm and watch direct bookings soar.",
   },
   {
     id: 4,
     icon: "/images/icon/icon-04.svg",
-    title: "Sanity Blog and Docs",
+    title: "OTA Harmony",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Conduct a symphony of online travel agencies from a single dashboard.Manage rates, availability, and content across platforms with effortless efficiency.",
   },
   {
     id: 5,
     icon: "/images/icon/icon-05.svg",
-    title: "DB, Auth and Stripe",
+    title: "Illuminating Insights",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Shine a light on your property's performance with comprehensive analytics.Uncover trends, track channel efficiency, and make data-driven decisions with crystal clarity.",
   },
   {
     id: 6,
     icon: "/images/icon/icon-06.svg",
-    title: "Regular Free Updates",
+    title: " Rapid-Sync",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Say goodbye to the nightmare of overbookings and hello to instant updates.Every reservation triggers an immediate sync across all channels, keeping your inventory pristine.",
   },
 ];
 
